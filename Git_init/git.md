@@ -56,4 +56,10 @@ GIT clone
 
 Biz Git bo'yicha xizmatlar taklif qilayotgan dasturlar orqali loyihalarni klonlashtirish (clone) imkoni mavjud. Asosiy ko'rinishi qo'yidagicha.
 ```
-![Alt text]()
+![Alt text](image-2.png)
+
+Terminalda ushbu buyruqni yurgazamiz
+```
+git clone git@github.com:uzbekdevs/loyiha.git
+```
+ #### bizni localniyga  projectni clon qilib olib keladi holos .
